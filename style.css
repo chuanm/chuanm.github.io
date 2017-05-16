@@ -24,8 +24,9 @@
 }
 
 .nav-icon {
-   padding: 0px 0px 5px 0px;
-   margin-bottom: 0 !important;
+   position: relative;
+   top: -0.3em;
+   margin-bottom: 0;
 }
 
 .name {
