@@ -79,6 +79,14 @@
   color: #000000;
 }
 
+@media (max-width: @screen-xs) {
+    body{font-size: 10px;}
+}
+
+@media (max-width: @screen-sm) {
+    body{font-size: 14px;}
+}
+
 /*SCROLL ARROW CSS BELOW. CREDIT TO ROBSAWYER.ME
 
 /* the wrapper element that will become the outer circle */
