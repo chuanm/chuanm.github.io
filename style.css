@@ -47,7 +47,7 @@
   font-family: "Francois One", Arial;
   color: #000000;
   text-align: center;
-  padding-bottom: 0px;
+  padding-bottom: 1em;
 }
 
 .subhead {
@@ -73,8 +73,7 @@
 }
 
 .intro-text {
-  font-size: 1.3em;
-  padding: 1.5em;
+  font-size: 1.5em;
   color: #000000;
 }
 
