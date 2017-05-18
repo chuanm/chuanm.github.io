@@ -9,6 +9,10 @@
     background-size: cover;
 }
 
+.portfolio-bg {
+  background-color: #ed871a;
+}
+
 .text-center {
   padding: 100px 0px 0px 0px;
 }
