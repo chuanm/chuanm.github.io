@@ -9,12 +9,12 @@
     background-size: cover;
 }
 
-.portfolio-bg {
-  background-color: #ed871a;
+.top-pad {
+  padding-top: 5em;
 }
 
-.text-center {
-  padding: 100px 0px 0px 0px;
+.portfolio-bg {
+  background-color: #ed871a;
 }
 
 .navbar-default {
