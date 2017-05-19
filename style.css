@@ -99,9 +99,10 @@
 }
 
 .github-text {
-  font-size: 1.8em;
+  font-size: 1.6em;
   color: #000000;
   text-align: center;
+  padding: 2em 0em 0em 0em;
 }
 
 .contact {
