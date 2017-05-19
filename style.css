@@ -77,25 +77,8 @@
   color: #000000;
 }
 
-.portfolio-img {
-    max-width: 100%;
-    max-height: 100%;
-}
-
-.panel-body{
-  height: 240px;
-  background-image: url(images/DidIt.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.panel {
-    border: 0;
-}
-
-.table > thead > tr > th, .table > thead > tr > td {
-    border: 0;
+.img-responsive {
+  margin: 0 auto;
 }
 
 .github-text {
